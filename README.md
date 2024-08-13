@@ -4,7 +4,8 @@ In this project the user can create an account to order the vegetables as per th
 
 1.  User can login or signup .This is shown as below in the below images:
 
-       This is the signup page:   ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/a432ae3b-25b6-45cf-8576-58e83df54732)
+       This is the signup page: ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/579f27d1-9ef5-4e69-8f1f-9c792692110e)
+
        This is the login page:  ![Screenshot 2024-08-13 183416](https://github.com/user-attachments/assets/952e6b99-7097-480b-aab7-2dd4744c6983)
 2.  Now the user can order the vegetables as per their need.
         ![Screenshot 2024-08-13 183449](https://github.com/user-attachments/assets/a7b71645-6c3f-4ac8-97a8-3cfff3151a4c)
@@ -27,8 +28,4 @@ In this project the user can create an account to order the vegetables as per th
 
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
