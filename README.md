@@ -4,7 +4,8 @@ In this project the user can create an account to order the vegetables as per th
 
 1.  User can login or signup .This is shown as below in the below images:
 
-       This is the signup page: ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/579f27d1-9ef5-4e69-8f1f-9c792692110e)
+       This is the signup page: ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/3e8bd9dc-102f-4ca0-9bbd-f1bac17b06d1)
+
 
        This is the login page:  ![Screenshot 2024-08-13 183416](https://github.com/user-attachments/assets/952e6b99-7097-480b-aab7-2dd4744c6983)
 2.  Now the user can order the vegetables as per their need.
