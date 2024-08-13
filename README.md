@@ -1,10 +1,10 @@
 # E-commerce website (VEGES)
 
-##In this project the user can create an account to order the vegetables as per their need.
+# #In this project the user can create an account to order the vegetables as per their need.
 
 1.  User can login or signup .This is shown as below in the below images:
 
-       This is the signup page:
+       This is the signup page:                       This is the login page:
 
 
 
@@ -15,7 +15,7 @@
 
     ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/3e8bd9dc-102f-4ca0-9bbd-f1bac17b06d1)
 
-       This is the login page:
+      
 
 
 
