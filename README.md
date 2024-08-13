@@ -13,7 +13,7 @@ In this project the user can create an account to order the vegetables as per th
 
 
 
-            ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/3e8bd9dc-102f-4ca0-9bbd-f1bac17b06d1)
+    ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/3e8bd9dc-102f-4ca0-9bbd-f1bac17b06d1)
 
 
        This is the login page:  ![Screenshot 2024-08-13 183416](https://github.com/user-attachments/assets/952e6b99-7097-480b-aab7-2dd4744c6983)
