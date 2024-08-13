@@ -15,8 +15,19 @@ In this project the user can create an account to order the vegetables as per th
 
     ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/3e8bd9dc-102f-4ca0-9bbd-f1bac17b06d1)
 
+       This is the login page:
 
-       This is the login page:  ![Screenshot 2024-08-13 183416](https://github.com/user-attachments/assets/952e6b99-7097-480b-aab7-2dd4744c6983)
+
+
+
+
+
+
+
+    ![Screenshot 2024-08-13 183416](https://github.com/user-attachments/assets/30447143-8cc3-4d34-b1b8-1c529e5715fa)
+
+
+      
 3.  Now the user can order the vegetables as per their need.
         ![Screenshot 2024-08-13 183449](https://github.com/user-attachments/assets/a7b71645-6c3f-4ac8-97a8-3cfff3151a4c)
 4.  After adding the products in the cart the user can get the total bill and can edit the bill by increasing or decreasing the quantity of the product.
