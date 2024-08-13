@@ -4,7 +4,16 @@
 
 1.  User can login or signup .This is shown as below in the below images:
 
-       This is the signup page:                                                                                                                    This is the login page:
+       This is the signup page:                                                                        ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/3e8bd9dc-102f-4ca0-9bbd-f1bac17b06d1)                                                          
+
+
+
+
+
+
+
+   
+       This is the login page:
 
 
 
@@ -13,7 +22,7 @@
 
 
 
-    ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/3e8bd9dc-102f-4ca0-9bbd-f1bac17b06d1)                              
+
     ![Screenshot 2024-08-13 183416](https://github.com/user-attachments/assets/30447143-8cc3-4d34-b1b8-1c529e5715fa)
 
       
