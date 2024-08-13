@@ -1,67 +1,31 @@
-# Getting Started with Create React App
+# E-commerce website (VEGES)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project the user can create an account to order the vegetables as per their need.
 
-## Available Scripts
+1.  User can login or signup .This is shown as below in the below images:
 
-In the project directory, you can run:
+       This is the signup page:   ![Screenshot 2024-08-13 183341](https://github.com/user-attachments/assets/a432ae3b-25b6-45cf-8576-58e83df54732)
+       This is the login page:  ![Screenshot 2024-08-13 183416](https://github.com/user-attachments/assets/952e6b99-7097-480b-aab7-2dd4744c6983)
+2.  Now the user can order the vegetables as per their need.
+        ![Screenshot 2024-08-13 183449](https://github.com/user-attachments/assets/a7b71645-6c3f-4ac8-97a8-3cfff3151a4c)
+3.  After adding the products in the cart the user can get the total bill and can edit the bill by increasing or decreasing the quantity of the product.
+    This is shown as below in the image:
+         ![Screenshot 2024-08-13 183521](https://github.com/user-attachments/assets/f6676ece-8329-4ccc-bc2f-a2494c80121d)
+4.  After this the user can move to checkout option can add the address details.
+     This is shown as below:
+               ![Screenshot 2024-08-13 183632](https://github.com/user-attachments/assets/dc45a8da-55ab-42de-a9a0-aa117a60ead7)
+5. After this the use get the total amount including GST and after that the user can place the order.
+   This is shown as below:
+        ![Screenshot 2024-08-13 183642](https://github.com/user-attachments/assets/d74c4644-2ca0-49a9-ae8a-a92fa64e85de)
+    
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
