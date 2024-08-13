@@ -1,6 +1,6 @@
 # E-commerce website (VEGES)
 
-# #In this project the user can create an account to order the vegetables as per their need.
+# In this project the user can create an account to order the vegetables as per their need.
 
 1.  User can login or signup .This is shown as below in the below images:
 
@@ -38,14 +38,19 @@
 3.  After adding the products in the cart the user can get the total bill and can edit the bill by increasing or decreasing the quantity of the product.
     This is shown as below in the image:
 
-       ![Screenshot 2024-08-13 183521](https://github.com/user-attachments/assets/207c60a2-0153-4f34-be64-e45900a6cc95)
+   ![Screenshot 2024-08-13 183529](https://github.com/user-attachments/assets/eeae2cbf-b308-460e-90ad-874cef632ae2)
 
-6.  After this the user can move to checkout option can add the address details.
+    
+     
+4.  After this the user can move to checkout option can add the address details.
      This is shown as below:
-               ![Screenshot 2024-08-13 183632](https://github.com/user-attachments/assets/dc45a8da-55ab-42de-a9a0-aa117a60ead7)
-7. After this the use get the total amount including GST and after that the user can place the order.
+           ![Screenshot 2024-08-13 183632](https://github.com/user-attachments/assets/24e79f5c-0c27-47f0-9edf-2c3e60778d71)
+
+             
+8. After this the use get the total amount including GST and after that the user can place the order.
    This is shown as below:
-        ![Screenshot 2024-08-13 183642](https://github.com/user-attachments/assets/d74c4644-2ca0-49a9-ae8a-a92fa64e85de)
+        ![Screenshot 2024-08-13 183642](https://github.com/user-attachments/assets/0c27f684-cf8a-4d4b-a058-7f25246be596)
+
     
 
 
