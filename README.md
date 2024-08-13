@@ -38,7 +38,7 @@
 3.  After adding the products in the cart the user can get the total bill and can edit the bill by increasing or decreasing the quantity of the product.
     This is shown as below in the image:
 
-   ![Screenshot 2024-08-13 183529](https://github.com/user-attachments/assets/eeae2cbf-b308-460e-90ad-874cef632ae2)
+      ![Screenshot 2024-08-13 183529](https://github.com/user-attachments/assets/eeae2cbf-b308-460e-90ad-874cef632ae2)
 
     
      
@@ -47,7 +47,7 @@
            ![Screenshot 2024-08-13 183632](https://github.com/user-attachments/assets/24e79f5c-0c27-47f0-9edf-2c3e60778d71)
 
              
-8. After this the use get the total amount including GST and after that the user can place the order.
+5. After this the use get the total amount including GST and after that the user can place the order.
    This is shown as below:
         ![Screenshot 2024-08-13 183642](https://github.com/user-attachments/assets/0c27f684-cf8a-4d4b-a058-7f25246be596)
 
